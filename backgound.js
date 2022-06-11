@@ -4,6 +4,7 @@ document.getElementById('blue').onmouseenter = partyBlue
 document.getElementById('orange').onmouseenter = partyOrange
 document.getElementById('yellow').onmouseenter = partyYellow
 
+
 function partyPurple() {
     document.querySelector('body').style.backgroundColor = 'purple'
 }
