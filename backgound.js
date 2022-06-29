@@ -20,3 +20,4 @@ function partyOrange() {
 function partyYellow() {
     document.querySelector('body').style.backgroundColor = 'yellow'
 }
+
